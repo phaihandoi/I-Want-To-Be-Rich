@@ -40,7 +40,6 @@
         //NSArray *a = [d allValues];
         
         NSLog(@"Cau tra loi : %@",d);
-        NSLog(@"1");
     }
     
 }
